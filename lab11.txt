@@ -1,0 +1,34 @@
+JAVA lab11
+Skryptowanie 
+MODU£Y - strona dr
+budowanie aplikacji modu³owych
+
+Silnik Nashorn - javascriptowy, java 1.8
+
+JavaScript - wyœwietlanie okienka
+Importowaæ klasy Javy w JavaScript
+
+
+-OKIENKO <klasa javy odpalona z js>
+-wybów klików - JavaScript
+
+APlikacja ma wyœwietlaæ teks ktory jest renderowanym html,
+Klasa s³u¿¹ca do rendowania -  textField/textArea
+
+parsowanie HTML i dekoowwania 
+Jœli nagówek h3 do do³o¿yæ bold
+-nazwaæ, co ten skrypt robi
+"Pogrub", 
+
+JavaScript czyta Java - Okienko, które czyta kod JavaSkryptowy i ewaluuje na Javaskrypt
+
+
+
+REDAGOWANIE HTML
+
+
+
+
+
+
+
